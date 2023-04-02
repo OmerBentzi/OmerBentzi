@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Cyber Security , Algorithms, And Python**
 
-- 📄 My Resume Link -> **https://drive.google.com/file/d/17NKSztAsPEO9XzTTUz2LMFPyRczi6J4g/view?usp=sharing**
-
 - ⚡ Fun fact: **I am a Surfer & Surfing Instructor**
 
 <h3 align="left">Connect with me:</h3>
