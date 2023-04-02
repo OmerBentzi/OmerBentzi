@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGgl76_g5CUXw/profile-displaybackgroundimage-shrink_350_1400/0/1673966282325?e=1686182400&v=beta&t=HQbHCh0PJG485fmlYlPpFzP3JAbzeuZMqhlIgRAYayM)
 <h1 align="center">Hi 👋, I'm Omer Ben Simon</h1>
-<h3 align="center">A passionate developer from Israel</h3>
+<h3 align="center">B.SC Computer Science Student</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerbentzi&label=Profile%20views&color=0e75b6&style=flat" alt="omerbentzi" /> </p>
 
