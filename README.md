@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGgl76_g5CUXw/profile-displaybackgroundimage-shrink_350_1400/0/1673966282325?e=1686182400&v=beta&t=HQbHCh0PJG485fmlYlPpFzP3JAbzeuZMqhlIgRAYayM)
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=omerbentzi&label=Profile%20views&color=0e75b6&style=flat](https://timelinecovers.pro/facebook-cover/download/beach-wave-sea-surfing-facebook-cover.jpg)" alt="omerbentzi" /> </p>
+
 
 <h1 align="center">Hi 👋, I'm Omer Ben Simon</h1>
 <h3 align="center">B.SC Computer Science Student</h3>
