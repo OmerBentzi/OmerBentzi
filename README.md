@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://timelinecovers.pro/facebook-cover/download/beach-wave-sea-surfing-facebook-cover.jpg" width="500" height="200"/> </p>
+<p align="center"> <img src="https://timelinecovers.pro/facebook-cover/download/beach-wave-sea-surfing-facebook-cover.jpg" width="750" height="200"/> </p>
 
 
 <h1 align="center">Hi 👋, I'm Omer Ben Simon</h1>
