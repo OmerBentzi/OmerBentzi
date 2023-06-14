@@ -1,4 +1,4 @@
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=omerbentzi&label=Profile%20views&color=0e75b6&style=flat](https://timelinecovers.pro/facebook-cover/download/beach-wave-sea-surfing-facebook-cover.jpg)"/> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=omerbentzi&label=Profile%20views&color=0e75b6&style=flat](https://timelinecovers.pro/facebook-cover/download/beach-wave-sea-surfing-facebook-cover.jpg)" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Omer Ben Simon</h1>
