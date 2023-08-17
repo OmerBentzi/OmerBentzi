@@ -26,7 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omerbentzi&show_icons=true&locale=en&layout=compact" height="250" width="350" alt="omerbentzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omerbentzi&show_icons=true&locale=en" height="250" width="350" alt="omerbentzi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerbentzi&"  height="250" width="350" alt="omerbentzi" /></p>
 
