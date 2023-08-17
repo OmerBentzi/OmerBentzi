@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently **B.SC Computer Science Student**
 
-- 💬 Ask me about **Cyber Security , Algorithms, And Python**
+- 💬 Ask me about **Cyber Security , Algorithms, Python And Web-Development**
 
 - ⚡ Fun fact: **I am a Surfer & Surfing Instructor**
 
