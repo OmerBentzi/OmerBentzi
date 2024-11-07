@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **omerben12@gmail.com**
 
-- 🌱 I’m currently **B.SC Computer Science Student**
+- 🌱 I’m currently **M.SC Computer Science Student**
 
 - 💬 Ask me about **Cyber Security , Algorithms And Web-Development**
 
