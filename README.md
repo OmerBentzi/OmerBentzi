@@ -6,7 +6,7 @@
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerbentzi&label=Profile%20views&color=0e75b6&style=flat" alt="omerbentzi" /> </p>
 
-- 🔭 I’m currently working **As a AI Security Researcher**
+- 🔭 I’m currently working **As a AI Security Research Engineer**
 
 - 📫 Reach me at **omerben12@gmail.com**
 
