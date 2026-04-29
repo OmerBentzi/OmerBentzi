@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://timelinecovers.pro/facebook-cover/download/beach-wave-sea-surfing-facebook-cover.jpg" width="100%" alt="Omer Ben Simon — banner" />
+<img src="https://timelinecovers.pro/facebook-cover/download/beach-wave-sea-surfing-facebook-cover.jpg" width="100%" alt="Omer Ben Simon - banner" />
 
 # Hi 👋, I'm Omer Ben Simon
 
@@ -17,12 +17,12 @@
 
 ## 🧭 About me
 
-I research and engineer the **security layer of modern AI systems** — adversarial robustness, model red-teaming, and the messy edges where ML meets real-world threat models. I like problems that sit at the intersection of math, code, and security.
+I research and engineer the **security layer of modern AI systems** - adversarial robustness, model red-teaming, and the messy edges where ML meets real-world threat models. I like problems that sit at the intersection of math, code, and security.
 
 - 🔭 &nbsp; Currently working as an **AI Security Research Engineer**
-- 🎓 &nbsp; **M.Sc.** in Computer Science — focus on **AI / ML**
+- 🎓 &nbsp; **M.Sc.** in Computer Science - focus on **AI / ML**
 - 💬 &nbsp; Ask me about &nbsp;**AI/ML security · adversarial ML · algorithms · LLM red-teaming**
-- 🏄 &nbsp; Off-keyboard — **surfer & certified surfing instructor**
+- 🏄 &nbsp; Off-keyboard - **surfer & certified surfing instructor**
 - 📫 &nbsp; Reach me at &nbsp;**omerben12@gmail.com**
 
 ---
@@ -72,5 +72,5 @@ I research and engineer the **security layer of modern AI systems** — adversar
 ---
 
 <div align="center">
-  <sub>“Security is a process, not a product.” — Bruce Schneier</sub>
+  <sub>“Security is a process, not a product.” - Bruce Schneier</sub>
 </div>
