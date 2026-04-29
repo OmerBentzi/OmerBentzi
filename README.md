@@ -5,7 +5,7 @@
 # Hi 👋, I'm Omer Ben Simon
 
 ### AI Security Research Engineer · M.Sc. Computer Science (AI / ML)
-
+### Portfolio : https://omerbentzi.github.io/
 [![Portfolio](https://img.shields.io/badge/Portfolio-omerbentzi.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white)](https://omerbentzi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omer_Ben_Simon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-ben-simon/)
 [![Email](https://img.shields.io/badge/Email-omerben12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerben12@gmail.com)
