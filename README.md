@@ -22,7 +22,7 @@ I research and engineer the **security layer of modern AI systems** - adversaria
 - 🔭 &nbsp; Currently working as an **AI Security Research Engineer**
 - 🎓 &nbsp; **M.Sc.** in Computer Science - focus on **AI / ML**
 - 💬 &nbsp; Ask me about &nbsp;**AI/ML security · adversarial ML · algorithms · LLM red-teaming**
-- 🏄 &nbsp; Off-keyboard - **surfer & certified surfing instructor**
+- 🏄 &nbsp; Off-keyboard - **surfer, certified surfing instructor, snowboarder & guitarist**
 - 📫 &nbsp; Reach me at &nbsp;**omerben12@gmail.com**
 
 ---
