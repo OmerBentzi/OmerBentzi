@@ -54,23 +54,6 @@ I research and engineer the **security layer of modern AI systems** - adversaria
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
 </p>
 
----
-
-## 📊 &nbsp;GitHub stats
-
-<div align="center">
-
-<a href="https://github.com/omerbentzi">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omerbentzi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbentzi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omerbentzi&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
   <sub>“Security is a process, not a product.” - Bruce Schneier</sub>
 </div>
